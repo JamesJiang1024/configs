@@ -1,1 +1,1 @@
-/Users/wentian/.spf13-vim-3/.vimrc
+/Users/wentian-mac/.spf13-vim-3/.vimrc
